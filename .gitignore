@@ -5,3 +5,4 @@ logs/
 *.parquet
 .xlsx
 .DS_Store
+.devcontainer
