@@ -1,0 +1,10 @@
+name: "eletric_vehicle_dbt"
+version: "1.0.0"
+
+profile: "electric-vehicles"
+model-paths: ["models"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+  - "logs"
