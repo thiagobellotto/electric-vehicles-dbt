@@ -37,4 +37,4 @@ select
     ,longitude
     ,latitude
 from range_categories
-where state = 'WA' and model_year >= 2010 and model_year <= 2023
+where model_year >= 2010 and model_year <= 2023

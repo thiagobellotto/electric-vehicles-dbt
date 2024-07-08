@@ -5,6 +5,5 @@ profile: "electric-vehicles"
 model-paths: ["models"]
 
 clean-targets:
-  - "target"
   - "dbt_packages"
   - "logs"
