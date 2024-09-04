@@ -25,7 +25,7 @@ AWS_SECRET_ACCESS_KEY = st.secrets["AWS_SECRET_ACCESS_KEY"]
 st.set_page_config(
     page_title="Electric Vehicles Data - WA",
     page_icon=":electric_plug:",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="auto",
 )
 
 st.title("Electric Vehicles Data - Trends in Washington")
